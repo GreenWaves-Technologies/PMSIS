@@ -1,0 +1,6 @@
+[submodule "pmsis_api"]
+	path = pmsis_api
+	url = https://github.com/GreenWaves-Technologies/pmsis_api.git
+[submodule "pmsis_regmap"]
+	path = pmsis_regmap
+	url = https://github.com/GreenWaves-Technologies/pmsis_regmap.git
